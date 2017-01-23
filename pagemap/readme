@@ -1,0 +1,4 @@
+read
+adb shell /system/bin/r 0x11a0c3df0
+write
+adb shell /system/bin/r 0x11a0c3df0 0xffbbccaa
